@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+}
+
+.book-info{
+    background-color: lightgray;
+    border: 2px solid black;
+    height: 100px;
+    width: 30%;
+    margin-top: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+button{
+    border-radius: 10%;
+}
